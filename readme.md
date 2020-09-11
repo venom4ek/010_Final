@@ -131,7 +131,7 @@
 ![img](img/button-send.png)
 
 - получаем сообщение:  
-![img](img/answer)
+![img](img/answer.png)
 
 ##### Негативные сценарии
 
